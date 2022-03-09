@@ -5,7 +5,7 @@ import com.serenity.repository.entity.Person;
 import com.serenity.repository.repository.PersonRepository;
 import com.serenity.repository.repository.specification.specificationimpl.FindByPersonId;
 import com.serenity.repository.repository.specification.specificationimpl.FindByPersonName;
-import com.serenity.repository.sorage.PersonStorage;
+import com.serenity.repository.storage.PersonStorage;
 
 import java.util.List;
 /**

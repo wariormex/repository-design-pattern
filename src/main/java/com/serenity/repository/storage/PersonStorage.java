@@ -1,4 +1,4 @@
-package com.serenity.repository.sorage;
+package com.serenity.repository.storage;
 
 import com.serenity.repository.entity.Person;
 

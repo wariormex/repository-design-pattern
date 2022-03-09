@@ -1,8 +1,8 @@
 package com.serenity.repository.repository;
 
 import com.serenity.repository.entity.Person;
-import com.serenity.repository.sorage.PersonStorage;
 import com.serenity.repository.repository.specification.Specification;
+import com.serenity.repository.storage.PersonStorage;
 
 import java.util.ArrayList;
 import java.util.List;
